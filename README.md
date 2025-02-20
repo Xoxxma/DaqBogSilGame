@@ -1,4 +1,4 @@
-A game for practicing at the university | Гра для практики в університеті
+A game for practicing at the university | Гра для практики в університеті ( 2 частина з боссом тут https://github.com/Sn1kers123/Game_of_boss )
 
 All code and assets were done within 2 weeks | Весь код та ассети були зроблені протягом 2 тижнів
 
